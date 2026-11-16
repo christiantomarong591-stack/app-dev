@@ -1,19 +1,21 @@
-# My Favorite Series: [Insert Series Name]
+# Stranger Things - My Favorite Series
 
 ## Quick Summary
-**[Series Name]** is an *incredible* show that I highly recommend. It combines action, drama, and comedy seamlessly.
+**Stranger Things** is an *amazing* sci-fi horror drama series. It follows a group of friends in the 1980s as they uncover supernatural mysteries in their small town of Hawkins.
 
 ### Main Characters
-* Character One
-* Character Two
-* Character Three
+* Eleven
+* Mike Wheeler
+* Dustin Henderson
+* Lucas Sinclair
+* Will Byers
 
-### Why I Like It
-1. The storyline is unpredictable.
-2. The character development is excellent.
-3. The cinematography is beautiful.
+### Why I Highly Recommend It
+1. The **80s nostalgia** is perfectly executed.
+2. The character development across seasons is *phenomenal*.
+3. The storyline keeps you on the edge of your seat.
 
 ### Favorite Quote
-> "Insert a famous quote from the movie/series here."
+> "Friends don't lie." - Eleven
 
-[Click here to read more about it on IMDb!](https://www.imdb.com/)
+[Learn more about Stranger Things on IMDb](https://www.imdb.com/title/tt4574334/)
